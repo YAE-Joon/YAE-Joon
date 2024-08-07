@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20YJ's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-- 👋 Hi, I’m @YAE-Joon
-- 👀 I’m interested in  coding
-- 🌱 I’m currently learning coding
 
-
+***
 
 ![YaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAE-Joon&show_icons=true&theme=radical)
 
+ ### 👋 사용 언어
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAE-Joon)](https://github.com/YAE-Joon/github-readme-stats)    
 
-
+*** 
+- ### 🌱 기술 스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
@@ -23,7 +23,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+- ### 👀 공부중 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
